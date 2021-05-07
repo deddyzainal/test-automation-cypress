@@ -1,0 +1,15 @@
+{
+  "name": "test-auto-cypress",
+  "version": "1.0.0",
+  "description": "test auto cypress",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^7.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
